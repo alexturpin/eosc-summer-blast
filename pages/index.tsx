@@ -29,7 +29,7 @@ export default function Home() {
         <h2 className="sr-only">IPSC Level III</h2>
       </header>
 
-      <main className="flex flex-wrap flex-col items-center p-8 pb-16">
+      <main className="flex flex-wrap flex-col items-center p-8">
         <Image
           className="mb-4"
           src="/logo-v1-trimmed.png"
