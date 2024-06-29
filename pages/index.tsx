@@ -25,7 +25,7 @@ export default function Home() {
   return (
     <>
       <header>
-        <h1 className="sr-only">EOSC 2023 Summer Blast</h1>
+        <h1 className="sr-only">EOSC 2024 Summer Blast</h1>
         <h2 className="sr-only">IPSC Level III</h2>
       </header>
 
@@ -39,7 +39,7 @@ export default function Home() {
           priority
         />
         <h3 className="text-eosc-blue text-center text-4xl md:text-6xl font-bold mb-8">
-          July 26-30, 2023
+          July 9-14, 2024
         </h3>
 
         {/*<p className="text-eosc-blue text-center text-3xl md:text-5xl font-bold mb-4 max-w-screen-md">
